@@ -2990,4 +2990,4 @@ client.on('ready', function(){
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(NTM5NTkwMDc3MTQ0MTA0OTg5.DzEj8A.ibRDTrNG6FxEprTXQGgKsb8MHDg);
